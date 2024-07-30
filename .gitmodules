@@ -1,0 +1,3 @@
+[submodule "libs/next-auth"]
+	path = libs/next-auth
+	url = https://github.com/kenxx/next-auth.git
