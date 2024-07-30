@@ -54,7 +54,9 @@ function Feishu({
       };
     },
     style: {
+      bg: '',
       logo: 'https://p1-hera.feishucdn.com/tos-cn-i-jbbdkfciu3/84a9f036fe2b44f99b899fff4beeb963~tplv-jbbdkfciu3-image:0:0.image',
+      text: '',
     },
     token: {
       async request({
